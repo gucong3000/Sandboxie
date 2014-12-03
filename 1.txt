@@ -20,4 +20,11 @@ hockor-2014-12-03
 灰心丧意
 意气风发
 
+
+/**
+* Arya
+*/ 
+发人深思
+思前想后
+后悔莫及
 keep this line please.
